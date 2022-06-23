@@ -54,16 +54,16 @@ body {
 
 h2 {
     color: #fff;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 300;
     leftter-spacing: 3px;
     right: 10%;
     position: absolute;
-    top: 2%;
+    top: 10%;
 }
 
 h2 span {
-    font-size: 14px;
+    font-size: 20px;
     leftter-spacing: 1px;
     opacity: 0.6;
 }
